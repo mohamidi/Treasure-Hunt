@@ -24,5 +24,5 @@ public class MyMain extends GameCreator{
 		 
 
 		myMain.enterGame(myUserInterface); 
-	}// end of main
-}// end of class
+	}
+}
